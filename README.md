@@ -59,5 +59,5 @@ La clase `Triqui` es la clase principal que coordina el juego. En ella se crea u
 
 Si deseas personalizar los nombres de los jugadores, puedes modificar el archivo `Main.java` y cambiar los nombres pasados al crear el objeto `Triqui`. Reemplaza "Jugador 1" y "Jugador 2" por los nombres que desees.
 
-##¡Diviértete jugando al Triqui!
+¡Diviértete jugando al Triqui!
 
