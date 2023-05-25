@@ -1,6 +1,6 @@
 /*
  * Autor: Santiago Barragan Paipilla 
- * Tema: Implementacion de Juego en java con md
+ * Tema: Implementacion de Juego de triqui en java con md
  * fecha: 23/05/2023 
 */
 
