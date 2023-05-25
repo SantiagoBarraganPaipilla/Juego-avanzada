@@ -4,7 +4,7 @@
 
 Este es un juego de Triqui (Tres en línea) implementado en Java. Permite a dos jugadores competir entre sí para lograr alinear tres de sus símbolos en línea ya sea horizontalmente, verticalmente o en diagonal.
 
-El juego utiliza el concepto de herencia y está diseñado con tres clases principales: `Tablero`, `Jugador` y `Triqui`.
+El juego está diseñado con tres clases principales: `Tablero`, `Jugador` y `Triqui`.
 
 ## Tablero
 
@@ -43,8 +43,6 @@ La clase `Triqui` es la clase principal que coordina el juego. En ella se crea u
    - Uno de los jugadores logra alinear tres de sus símbolos en línea (horizontal, vertical o diagonal), y se muestra un mensaje indicando al ganador.
    - Todas las casillas del tablero se llenan sin que haya un ganador, y se muestra un mensaje de empate.
 
-¡Diviértete jugando al Triqui!
-
 ## Requisitos del sistema
 
 - Java Development Kit (JDK) 8 o superior.
@@ -61,5 +59,5 @@ La clase `Triqui` es la clase principal que coordina el juego. En ella se crea u
 
 Si deseas personalizar los nombres de los jugadores, puedes modificar el archivo `Main.java` y cambiar los nombres pasados al crear el objeto `Triqui`. Reemplaza "Jugador 1" y "Jugador 2" por los nombres que desees.
 
-¡Disfruta del juego de Triqui en Java!
+##¡Diviértete jugando al Triqui!
 
