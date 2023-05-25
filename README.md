@@ -44,20 +44,18 @@ La clase `Triqui` es la clase principal que coordina el juego. En ella se crea u
    - Todas las casillas del tablero se llenan sin que haya un ganador, y se muestra un mensaje de empate.
 
 ## Requisitos del sistema
-
-- Java Development Kit (JDK) 8 o superior.
 - Compilador Java.
 
 ## Ejecutar el juego
 
-1. Clona este repositorio o descarga los archivos.
+1.  Descarga este repositorio en archivos.
 2. Abre una terminal o línea de comandos en la carpeta del proyecto.
-3. Compila los archivos Java utilizando el comando `javac`:
-4. Ejecuta la aplicación Java con el comando `java`:
+3. Compila los archivos Java utilizando el comando.
+4. Ejecuta la aplicación Java con el comando.
 
 ## Personalización
 
-Si deseas personalizar los nombres de los jugadores, puedes modificar el archivo `Main.java` y cambiar los nombres pasados al crear el objeto `Triqui`. Reemplaza "Jugador 1" y "Jugador 2" por los nombres que desees.
+Si deseas personalizar los nombres de los jugadores, puedes modificar el archivo `Main.java` y cambiar los nombres pasados al crear el objeto `Triqui`. Reemplaza "Jugador 1" en este caso natalia y "Jugador 2" en este caso Santiago por los nombres que desees.
 
 ¡Diviértete jugando al Triqui!
 
